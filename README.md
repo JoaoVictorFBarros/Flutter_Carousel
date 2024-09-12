@@ -1,16 +1,18 @@
-# carrocel
+## Clone o repositório
+```bash
+git clone https://github.com/JoaoVictorFBarros/Flutter_Carousel.git
+```
+## Vá para o diretório
+```bash
+cd ./Flutter_Carousel/
+```
 
-A new Flutter project.
+## Instale as dependências
+```bash
+flutter pub get
+```
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Execute a aplicação
+```bash
+flutter run
+```
